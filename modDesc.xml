@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modDesc descVersion="61">
+    <title>MON_MOD</title>
+    <description>Mod généré automatiquement</description>
+    <version>1.0.0.0</version>
+    <author>Auteur</author>
+    <script file="scripts/main.lua" />
+    <icon filename="icon.png" />
+</modDesc>
